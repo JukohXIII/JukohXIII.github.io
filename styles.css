@@ -2,70 +2,10 @@
 *{
     font-family: "Montserrat";
     background-color: rgb(30,30,30);
+    color: white;
 }
-body{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
-.nav-background{
-    width: 120%;
-    background-color: #666bff;
-    margin-top: -1%;
-    display: flex;
-    justify-content: center;
-}
+
 nav{
     display: flex;
-    flex-direction: row;
-    width:80%;
-    border-radius: 10px;
-    background-color: #666bff;
 }
 
-h2{
-    color:white;
-    font-weight: normal;
-    background-color: #666bff;
-}
-
-ul{
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-    background-color: #666bff;
-    justify-content: space-between;
-}
-
-li{
-    background-color: #666bff;
-    color: white;
-    display: flex;
-    font-weight: lighter;
-    margin-left: 5%;
-    margin-right: 10%;
-}
-
-.presentation{
-    margin-top: 8%;
-    color: white;
-    font-weight: lighter;
-    margin-bottom: 10%;
-}
-
-.projects{
-    margin-top: 3%;
-    display: flex;
-    width: 20%;
-    flex-wrap: wrap;
-    flex-direction: row;
-    justify-content:space-between;
-}
-
-h3{
-    color: white;
-}
-
-h4{
-    color:white;
-}
