@@ -5,7 +5,42 @@
     color: white;
 }
 
+
+header{
+    display: flex;
+    flex-direction: row;
+    width: 50%;
+}
+
 nav{
     display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 30%;
+}
+
+#name{
+    margin-left: 70%;
+}
+
+main{
+    width: 100%;
+    display: flex;
+}
+
+#profile{
+    width: 50%;
+}
+
+#projects{
+    width: 50%;
+}
+
+#profilepic{
+    border-radius: 50%;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
