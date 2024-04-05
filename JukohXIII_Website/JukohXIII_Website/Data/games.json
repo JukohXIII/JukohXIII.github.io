@@ -1,17 +1,17 @@
 ﻿[
   {
     "Name": "Project Frostbite",
-    "ImagePath": "../static/ProjectFrostbite.jpg",
+    "ImagePath": "/ProjectFrostbite.jpg",
     "Description": "Project Frostbite is 2D RPG game project that takes you into the Norse mythology and makes you fight gods among gods."
   },
   {
     "Name": "DinoGameJS",
-    "ImagePath": "../static/standing_still.png",
+    "ImagePath": "/standing_still.png",
     "Description": "This was my very first 'gaming' project where I decided to just go with the famous Chrome DinoRun"
   },
   {
     "Name": "Rythm Game",
-    "ImagePath": "../static/rythmGameIcon.jpg",
-    "Description": "RythmGame is a one-night project where I tried to make a rythm game with Unity (in 11 hours)(1 track playable + not synchronized KEKW"
+    "ImagePath": "/rythmGameIcon.jpg",
+    "Description": "RythmGame is a one-night project where I tried to make a rythm game with Unity (in 11 hours)(1 track playable + not synchronized KEKW)"
   }
 ]

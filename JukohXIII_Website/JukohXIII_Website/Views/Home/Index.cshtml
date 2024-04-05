@@ -8,9 +8,22 @@
    <PageTitle>JukohXIII</PageTitle>
 </div>
 
+<div class="presentation">
+    <div class="avatar" >
+        <img src="">
+    </div>
+    <div class="bio">
+        
+    </div>
+</div>
+
+<div class="">
+
+</div>
+
 <div class="place-columns">
     @foreach(var project in Model)
     {
-        @Html.Partial("_PlaceCard", project);
+        @await Html.PartialAsync("_PlaceCard", project);
     }
 </div>

@@ -8,7 +8,6 @@ namespace JukohXIII_Website.Controllers
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
-
         public HomeController(ILogger<HomeController> logger)
         {
             _logger = logger;
@@ -21,7 +20,7 @@ namespace JukohXIII_Website.Controllers
             var games = JsonSerializer.Deserialize<List<MyProjects>>(jsonFile);
             return View(games);
         }
-
+        
         public IActionResult Privacy()
         {
             return View();
