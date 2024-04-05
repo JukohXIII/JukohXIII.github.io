@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\views\\shared\\_placecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\views\\shared\\_placecard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\models\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\models\\myprojects.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\data\\games.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\data\\games.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|d:\\c#_projects\\jukohxiii.github.io\\jukohxiii_website\\jukohxiii_website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F975C76B-D004-4550-A49F-8CA90BD98147}|JukohXIII_Website\\JukohXIII_Website.csproj|solutionrelative:jukohxiii_website\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "JukohXIII_Website\\wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-04-04T20:12:48.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "JukohXIII_Website\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:10:18.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_PlaceCard.cshtml",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Shared\\_PlaceCard.cshtml",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Views\\Shared\\_PlaceCard.cshtml",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Shared\\_PlaceCard.cshtml",
+              "RelativeToolTip": "JukohXIII_Website\\Views\\Shared\\_PlaceCard.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T20:05:07.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "JukohXIII_Website\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-04T19:50:48.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "JukohXIII_Website\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T19:46:31.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MyProjects.cs",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Models\\MyProjects.cs",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Models\\MyProjects.cs",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Models\\MyProjects.cs",
+              "RelativeToolTip": "JukohXIII_Website\\Models\\MyProjects.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-04T17:13:36.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "games.json",
+              "DocumentMoniker": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Data\\games.json",
+              "RelativeDocumentMoniker": "JukohXIII_Website\\Data\\games.json",
+              "ToolTip": "D:\\C#_projects\\JukohXIII.github.io\\JukohXIII_Website\\JukohXIII_Website\\Data\\games.json",
+              "RelativeToolTip": "JukohXIII_Website\\Data\\games.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-04T17:45:41.817Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

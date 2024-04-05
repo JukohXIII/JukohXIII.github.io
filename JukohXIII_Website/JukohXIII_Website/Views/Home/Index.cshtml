@@ -1,0 +1,16 @@
+﻿@model IEnumerable<JukohXIII_Website.Models.MyProjects>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="page-title">
+   <PageTitle>JukohXIII</PageTitle>
+</div>
+
+<div class="place-columns">
+    @foreach(var project in Model)
+    {
+        @Html.Partial("_PlaceCard", project);
+    }
+</div>
